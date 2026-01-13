@@ -1,0 +1,40 @@
+/*--------------------------------------------------------------
+Officiella AIK-färger samt extra 1891.org-färger
+--------------------------------------------------------------*/
+
+:root {
+  --AIK_Svart: #000;
+  --AIK_Morkgra: #333;
+  --AIK_Morkbla: #0d2e47; 
+  --AIK_Gul: #ffdd00;
+  --AIK_Guld: #a18a5c;
+  --AIK_GuldBG: rgba(161, 138, 92, 0.20);
+  --AIK_GuldBGSolid: #ece8de;
+  --AIK_Vit: #fff;
+  --1891_Svart: #141414;
+  --1891_Morkgra: #484848;
+  --1891_Ljusgra: #dbdbdb;
+  --1891_Ratta: #7d7d7d;
+  --1891_Ljusgul: #fdf9e4;
+  --1891_Graddvit: #fefdf4;
+  --1891_Orange: #f8a43c;   
+
+
+
+/*--------------------------------------------------------------
+Mönster och gradients
+--------------------------------------------------------------*/
+
+
+--1891A_Gradient: linear-gradient(#ffffff 0%, #ece8de 100%); 
+
+
+/*--------------------------------------------------------------
+UI-extras
+--------------------------------------------------------------*/
+	--shadow: #43a047;
+	--scrollbarBG: #eee;
+    --thumbBG: #66bb6a;
+
+
+}
